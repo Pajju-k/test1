@@ -6,6 +6,8 @@ public class SimpleStudentInfo {
         System.out.println("Roll Number: " + rollNumber);
         System.out.println("Department: " + department);
         System.out.println("Semester: " + semester);
+        System.out.println("Semester: " + semester);
+        System.out.println("Semester: " + semester);
     }
 
     public static void main(String[] args) {
